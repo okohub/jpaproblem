@@ -30,16 +30,6 @@
       <artifactId>spring-boot-starter-batch</artifactId>
     </dependency>
 
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-    </dependency>
-
-    <dependency>
-      <groupId>com.zaxxer</groupId>
-      <artifactId>HikariCP</artifactId>
-    </dependency>
-
     <!--just using this dependency?-->
     <dependency>
       <groupId>org.eclipse.persistence</groupId>
